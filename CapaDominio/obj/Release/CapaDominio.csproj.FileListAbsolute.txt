@@ -1,0 +1,6 @@
+C:\Users\Hogar\OneDrive\Escritorio\C#\C# NIVEL 3\TPFinalNivel3EcheverríaAlejandro\CapaDominio\bin\Release\CapaDominio.dll
+C:\Users\Hogar\OneDrive\Escritorio\C#\C# NIVEL 3\TPFinalNivel3EcheverríaAlejandro\CapaDominio\bin\Release\CapaDominio.pdb
+C:\Users\Hogar\OneDrive\Escritorio\C#\C# NIVEL 3\TPFinalNivel3EcheverríaAlejandro\CapaDominio\obj\Release\CapaDominio.csproj.AssemblyReference.cache
+C:\Users\Hogar\OneDrive\Escritorio\C#\C# NIVEL 3\TPFinalNivel3EcheverríaAlejandro\CapaDominio\obj\Release\CapaDominio.csproj.CoreCompileInputs.cache
+C:\Users\Hogar\OneDrive\Escritorio\C#\C# NIVEL 3\TPFinalNivel3EcheverríaAlejandro\CapaDominio\obj\Release\CapaDominio.dll
+C:\Users\Hogar\OneDrive\Escritorio\C#\C# NIVEL 3\TPFinalNivel3EcheverríaAlejandro\CapaDominio\obj\Release\CapaDominio.pdb

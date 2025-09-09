@@ -1,0 +1,6 @@
+C:\Users\Hogar\OneDrive\Escritorio\C#\C# NIVEL 3\TPFinalNivel3EcheverríaAlejandro\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\Hogar\OneDrive\Escritorio\C#\C# NIVEL 3\TPFinalNivel3EcheverríaAlejandro\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\Hogar\OneDrive\Escritorio\C#\C# NIVEL 3\TPFinalNivel3EcheverríaAlejandro\CapaDatos\obj\Release\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Hogar\OneDrive\Escritorio\C#\C# NIVEL 3\TPFinalNivel3EcheverríaAlejandro\CapaDatos\obj\Release\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Hogar\OneDrive\Escritorio\C#\C# NIVEL 3\TPFinalNivel3EcheverríaAlejandro\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\Hogar\OneDrive\Escritorio\C#\C# NIVEL 3\TPFinalNivel3EcheverríaAlejandro\CapaDatos\obj\Release\CapaDatos.pdb
